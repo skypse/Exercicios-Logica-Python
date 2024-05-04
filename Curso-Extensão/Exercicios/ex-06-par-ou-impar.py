@@ -1,5 +1,5 @@
 # Par ou impar
-
+print("Checar se o número é par ou ímpar")
 num1 = int(input("Digite um numero: "))
 
 if num1 % 2 == 0:
