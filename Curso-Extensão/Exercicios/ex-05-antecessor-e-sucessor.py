@@ -1,5 +1,12 @@
-# (Saída) Programa que exibe o seu antecessor e sucessor
+# Curso Básico de Python
+# Nome: Gabriel do Amaral Alves
+# Versão 1.0
+# Exercício de Lógica de Programação utilizando Python
+# Enunciado: Escreva um algoritmo para ler um valor (do teclado) e escrever (na tela) o seu antecessor e sucessor.
 
+# Programa de Antecessor e Sucessor
+
+# (Sáida) - Apresentação
 print("Digite um número, que o programa exibe o 'Antecessor' e 'Sucessor'")
 print()
 
