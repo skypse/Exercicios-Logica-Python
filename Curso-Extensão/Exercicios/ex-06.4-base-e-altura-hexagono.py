@@ -2,7 +2,7 @@
 # Nome: Gabriel do Amaral Alves
 # Versão 1.0
 # Exercício de Lógica de Programação utilizando Python
-# Enunciado: Escreva um algoritmo para ler as dimensões de um retângulo (base e altura), calcular e escrever a área do retângulo, quadrado, triangulo, losango e circulo.
+# Enunciado: Escreva um algoritmo para ler as dimensões de um retângulo (base e altura), calcular e escrever a área do retângulo, quadrado, triangulo, losango, e trapezio.
 
 # Programa de calculo da área de um 'hexagono'
 
