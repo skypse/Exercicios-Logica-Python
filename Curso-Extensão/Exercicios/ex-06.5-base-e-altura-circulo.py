@@ -7,10 +7,9 @@
 # Programa de calculo da área de um 'circulo'
 
 # (Saída) - Apresentação
-print("Programa que calcula área do hexagono")
+print("Programa que calcula área do circulo")
 print()
-print("Considerando o 'π' 3,14")
-print()
+
 
 # (Entrada) - Pedidindo dados e armazenando
 raio = float(input("Digite o tamanho do raio: "))
