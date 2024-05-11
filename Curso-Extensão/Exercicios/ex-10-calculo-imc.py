@@ -18,4 +18,4 @@ peso = float(input("Digite seu peso em quilogramas: "))
 imc = peso / (altura ** 2)
 
 # (Saída) - Exibindo o resultados
-print("Seu índice de massa corporal (IMC) é:", imc)
+print("Seu índice de massa corporal (IMC) é:", round(imc,2))
