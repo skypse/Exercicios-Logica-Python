@@ -19,4 +19,4 @@ altura = float(input("Digite o valor da altura do trapézio: "))
 area = (base_maior + base_menor) * altura / 2
 
 # (Saída) - Exibindo os resultados
-print("A área do trapézio é:", area)
+print("A área do trapézio é:", area,"cm²")
