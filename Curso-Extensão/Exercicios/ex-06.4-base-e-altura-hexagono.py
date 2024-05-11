@@ -5,6 +5,7 @@
 # Enunciado: Escreva um algoritmo para ler as dimensões de um retângulo (base e altura), calcular e escrever a área do retângulo, quadrado, triangulo, losango, e trapezio.
 
 # Programa de calculo da área de um 'hexagono'
+# ou também poderia ser a área do triangulo 6x area do triangulo
 
 import math
 

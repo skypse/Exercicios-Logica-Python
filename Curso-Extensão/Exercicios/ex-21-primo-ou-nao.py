@@ -15,7 +15,7 @@ numero = int(input("Digite um número: "))
 
 # (Processamento) - Efetuando a verificação
 
-  # números que são menores que 2 não são primos
+# números que são menores que 2 não são primos
 def verifica_primo(numero):
     if numero < 2:
         return False
