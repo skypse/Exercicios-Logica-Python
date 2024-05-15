@@ -15,7 +15,7 @@ percentual_reajuste = int(input("Digite o percentual de reajuste do salário: ")
 print()
 
 # (Processamento) - Calculando novo salário
-percentual_decimal = percentual_reajuste/ 100
+percentual_decimal = percentual_reajuste / 100
 novo_salario = salario_mensal + (salario_mensal * percentual_decimal)
 
 # (Saída) - Apresentando resultado
