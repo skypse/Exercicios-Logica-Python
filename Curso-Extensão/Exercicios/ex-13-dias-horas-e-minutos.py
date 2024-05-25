@@ -11,6 +11,7 @@ print("Programa para calcular o total em segundos")
 print()
 
 # (Entrada) - Pedindo dados e armazenando
+
 dias = int(input("Digite a quantidade de dias: "))
 horas = int(input("Digite a quantidade de horas: "))
 minutos = int(input("Digite a quantidade de minutos: "))
@@ -18,6 +19,11 @@ segundos = int(input("Digite a quantidade de segundos: "))
 
 # (Processamento) - Calculando o total em segundos
 total_segundos = (dias * 24 * 60 * 60) + (horas * 60 * 60) + (minutos * 60) + segundos
+# 'dias' Converte dias em segundos (24 horas/dia * 60 minutos/hora * 60 segundos/minuto).
+# 'horas' Converte horas em segundos (60 minutos/hora * 60 segundos/minuto).
+# 'minutos' Converte minutos em segundos (60 segundos/minuto).
+# 'segundos' Já está em segundos, então é apenas adicionado ao total.
 
 # (Saída) - Exibindo o total em segundos
+
 print("O total em segundos é:", total_segundos)

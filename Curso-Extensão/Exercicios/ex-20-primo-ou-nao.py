@@ -26,6 +26,8 @@ def verifica_primo(numero):
     return True
 
 if verifica_primo(numero):
+    #true
     print(f"{numero} é primo.")
 else:
+    #false
     print(f"{numero} não é primo.")
