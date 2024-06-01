@@ -10,3 +10,10 @@ for x in fruits:
 output ficaria:
 apple
 banana
+
+Exemplo: Sair do ciclo quando x é “banana”, mas desta vez a interrupção vem antes da impressão:
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+    if x == "banana":
+        break
+    print(x) 
