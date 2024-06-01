@@ -5,3 +5,10 @@ while i < 6:
     if i == 3:
         continue
     print(i)
+
+O output ficaria assim:
+1
+2
+4
+5
+6
