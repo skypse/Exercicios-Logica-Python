@@ -1,2 +1,2 @@
-for x in range(2, 30, 3): # aqui eu defino para ele começar do 2, mostrando até o 30, pulando de 3 em 3
+for x in range(3, 30, 5): # aqui eu defino para ele começar do 3, mostrando até o 30, pulando de 3 em 3, baseando nas posições
     print(x)
