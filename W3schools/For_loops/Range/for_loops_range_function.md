@@ -5,3 +5,8 @@ A função range() devolve uma sequência de números, começando em 0 por prede
 Exemplo: Utilizar a função range():
 for x in range(6):
   print(x) 
+
+A função range() tem como predefinição 0 como valor inicial, mas é possível especificar o valor inicial adicionando um parâmetro: range(2, 6), que significa valores de 2 a 6 (mas não incluindo 6):
+Exemplo de utilização: Utilizando o parâmetro start:
+for x in range(2, 6):
+  print(x)
