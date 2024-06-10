@@ -10,7 +10,7 @@
 # Apresentação do Programa
 print("Programa para calcular a área total de uma residência")
 
-# variavel
+# Variavel
 area_total = 0
 
 # Loop para calcular a área de cada cômodo
