@@ -12,8 +12,8 @@ numero = 1
 contadora = 0
 
 while numero <= 500:
-  if (numero % 2 == 0):
-    contadora += numero
-  numero += 1
+    if (numero % 2 == 0):
+        contadora += numero
+    numero += 1
 
 print(contadora)
