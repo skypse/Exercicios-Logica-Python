@@ -8,7 +8,7 @@
 # Apresentação do Programa
 print("Soma e média aritmética dos valores pares na faixa de 50 a 70")
 
-# Inicialização das variáveis
+# variaveis
 soma = 0
 contador = 0
 numero = 50
@@ -23,6 +23,6 @@ while numero <= 70:
 # Cálculo da média
 media = soma / contador if contador != 0 else 0
 
-# Apresentação dos resultados
+# Resultados
 print(f"Soma dos valores pares: {soma}")
 print(f"Média aritmética dos valores pares: {media:.2f}")
