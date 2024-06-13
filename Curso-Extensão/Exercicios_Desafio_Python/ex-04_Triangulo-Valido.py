@@ -2,7 +2,7 @@
 # Nome: Gabriel do Amaral Alves
 # Versão 1.0
 # Exercício de Lógica de Programação utilizando Python
-# Enunciado: Escreva um programa que leia três lados de um triângulo e verifique se eles formam um triângulo válido.
+# Enunciado: Escreva um programa que leia três lados de um triângulo e verifique se eles formam um triângulo válido. Para isso, a soma de dois lados deve ser sempre maior que o terceiro lado.
 
 # leitura dos três lados do triângulo
 lado1 = float(input("Digite o comprimento do primeiro lado do triângulo: "))
